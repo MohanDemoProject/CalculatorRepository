@@ -1,0 +1,5 @@
+Calculation:-
+
+1)Addtion
+
+	It will perform the addition operation of two numbers.
