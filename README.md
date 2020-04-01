@@ -1,0 +1,2 @@
+# CalculatorRepository
+Simple calculation project... :-)
